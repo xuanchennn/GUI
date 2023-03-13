@@ -27,17 +27,19 @@ namespace GUI_0220
 
         }
 
-        private void button20_Click(object sender, EventArgs e)
-        {
 
-        }
 
         private void button13_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text += num_1.Text;
         }
 
         private void num_0_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button_delet_Click(object sender, EventArgs e)
         {
 
         }

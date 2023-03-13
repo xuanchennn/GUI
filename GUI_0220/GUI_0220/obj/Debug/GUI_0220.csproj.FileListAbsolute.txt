@@ -8,3 +8,4 @@ C:\Users\MEGAS\Desktop\GUI\GUI_0220\GUI_0220\obj\Debug\GUI_0220.csproj.GenerateR
 C:\Users\MEGAS\Desktop\GUI\GUI_0220\GUI_0220\obj\Debug\GUI_0220.csproj.CoreCompileInputs.cache
 C:\Users\MEGAS\Desktop\GUI\GUI_0220\GUI_0220\obj\Debug\GUI_0220.exe
 C:\Users\MEGAS\Desktop\GUI\GUI_0220\GUI_0220\obj\Debug\GUI_0220.pdb
+C:\Users\MEGAS\Desktop\GUI\GUI_0220\GUI_0220\obj\Debug\GUI_0220.count.resources

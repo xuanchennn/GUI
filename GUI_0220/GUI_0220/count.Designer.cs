@@ -244,7 +244,7 @@ namespace GUI_0220
             this.button_delet.TabIndex = 20;
             this.button_delet.Text = "Del";
             this.button_delet.UseVisualStyleBackColor = true;
-            this.button_delet.Click += new System.EventHandler(this.button20_Click);
+            this.button_delet.Click += new System.EventHandler(this.button_delet_Click);
             // 
             // label1
             // 
