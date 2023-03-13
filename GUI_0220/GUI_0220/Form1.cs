@@ -16,5 +16,10 @@ namespace GUI_0220
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("呃阿 我被點擊了");
+        }
     }
 }
