@@ -96,6 +96,7 @@ namespace GUI_0220
             this.button_plus.TabIndex = 4;
             this.button_plus.Text = "+";
             this.button_plus.UseVisualStyleBackColor = true;
+            this.button_plus.Click += new System.EventHandler(this.button_plus_Click);
             // 
             // num_7
             // 
@@ -105,6 +106,7 @@ namespace GUI_0220
             this.num_7.TabIndex = 8;
             this.num_7.Text = "7";
             this.num_7.UseVisualStyleBackColor = true;
+            this.num_7.Click += new System.EventHandler(this.num_7_Click);
             // 
             // num_8
             // 
@@ -114,6 +116,7 @@ namespace GUI_0220
             this.num_8.TabIndex = 7;
             this.num_8.Text = "8";
             this.num_8.UseVisualStyleBackColor = true;
+            this.num_8.Click += new System.EventHandler(this.num_8_Click);
             // 
             // num_9
             // 
@@ -123,6 +126,7 @@ namespace GUI_0220
             this.num_9.TabIndex = 6;
             this.num_9.Text = "9";
             this.num_9.UseVisualStyleBackColor = true;
+            this.num_9.Click += new System.EventHandler(this.num_9_Click);
             // 
             // button_cut
             // 
@@ -132,6 +136,7 @@ namespace GUI_0220
             this.button_cut.TabIndex = 5;
             this.button_cut.Text = "-";
             this.button_cut.UseVisualStyleBackColor = true;
+            this.button_cut.Click += new System.EventHandler(this.button_cut_Click);
             // 
             // num_4
             // 
@@ -141,6 +146,7 @@ namespace GUI_0220
             this.num_4.TabIndex = 9;
             this.num_4.Text = "4";
             this.num_4.UseVisualStyleBackColor = true;
+            this.num_4.Click += new System.EventHandler(this.num_4_Click);
             // 
             // num_5
             // 
@@ -160,6 +166,7 @@ namespace GUI_0220
             this.num_6.TabIndex = 11;
             this.num_6.Text = "6";
             this.num_6.UseVisualStyleBackColor = true;
+            this.num_6.Click += new System.EventHandler(this.num_6_Click);
             // 
             // button_mix
             // 
@@ -169,6 +176,7 @@ namespace GUI_0220
             this.button_mix.TabIndex = 12;
             this.button_mix.Text = "x";
             this.button_mix.UseVisualStyleBackColor = true;
+            this.button_mix.Click += new System.EventHandler(this.button_mix_Click);
             // 
             // num_1
             // 
@@ -188,6 +196,7 @@ namespace GUI_0220
             this.num_2.TabIndex = 14;
             this.num_2.Text = "2";
             this.num_2.UseVisualStyleBackColor = true;
+            this.num_2.Click += new System.EventHandler(this.num_2_Click);
             // 
             // num_3
             // 
@@ -197,6 +206,7 @@ namespace GUI_0220
             this.num_3.TabIndex = 15;
             this.num_3.Text = "3";
             this.num_3.UseVisualStyleBackColor = true;
+            this.num_3.Click += new System.EventHandler(this.num_3_Click);
             // 
             // button_div
             // 
@@ -206,6 +216,7 @@ namespace GUI_0220
             this.button_div.TabIndex = 16;
             this.button_div.Text = "/";
             this.button_div.UseVisualStyleBackColor = true;
+            this.button_div.Click += new System.EventHandler(this.button_div_Click);
             // 
             // num_0
             // 
@@ -225,6 +236,7 @@ namespace GUI_0220
             this.button_sum.TabIndex = 18;
             this.button_sum.Text = "=";
             this.button_sum.UseVisualStyleBackColor = true;
+            this.button_sum.Click += new System.EventHandler(this.button_sum_Click);
             // 
             // button_per
             // 
